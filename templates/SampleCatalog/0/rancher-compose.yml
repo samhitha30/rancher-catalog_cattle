@@ -1,0 +1,4 @@
+.catalog:
+    name: "SampleCatalog"
+    version: "v0.1"
+    description: "SampleCatalog integration"
