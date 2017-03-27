@@ -1,0 +1,5 @@
+name: Galera Deployment
+description: | rancher/galera:10.0.22-rancher2
+  Docker Samplecatalog
+version: v0.1.0
+category: galera:10.0.22-rancher2
